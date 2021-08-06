@@ -1,0 +1,15 @@
+{
+  "name": "Dev_automation_hackerrankmoderator_3rdAug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hackerRankModerator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^10.1.0"
+  }
+}
